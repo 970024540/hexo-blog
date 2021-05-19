@@ -14,6 +14,9 @@ banner_img_set: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=185083
 ## Quick Start
 初次编写博客~~
 
+github访问地址[github](https://970024540.github.io/)
+vercel访问地址[vercel](https://hexo-blog.vercel.app/)
+
 ### 使用hexo，选用主题
 
 主题选用: [hexo-theme-Kaze](https://github.com/theme-kaze/hexo-theme-kaze)
