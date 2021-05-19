@@ -1,11 +1,11 @@
 ---
-title: 初次认识hexo
+title: 初次编写博客
 date: 2021-05-18 14:22:22
 tags:
 - 个人
 categories:
 - 个人
-excerpt: 初次编写博客~~
+excerpt: 初次编写博客~
 banner_img: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1850836699,2666196788&fm=26&gp=0.jpg
 banner_img_set: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1850836699,2666196788&fm=26&gp=0.jpg
 ---
@@ -13,8 +13,10 @@ banner_img_set: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=185083
 
 ## Quick Start
 初次编写博客~~
-主题选用: [hexo-theme-Kaze](https://github.com/theme-kaze/hexo-theme-kaze)
 
+### 使用hexo，选用主题
+
+主题选用: [hexo-theme-Kaze](https://github.com/theme-kaze/hexo-theme-kaze)
 
 
 ### Create a new post（写作）
