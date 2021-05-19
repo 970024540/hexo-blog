@@ -20,7 +20,9 @@ menus:
 about:
   description: description
   social_links:
-    - { icon: icon-github, link: https://970024540.github.io/ }
+    - { icon: icon-github, link: https://github.com/970024540 }
+    - { icon: icon-mail, link: mailto:13723683480@163.com }
+    - { icon: icon-bilibili, link: https://bilibili.com }
 
 #------------------------
 # Links
